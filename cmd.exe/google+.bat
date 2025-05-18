@@ -1,0 +1,1 @@
+start chrome.exe -url "https://www.google.com/search?udm=14&q=%1"
